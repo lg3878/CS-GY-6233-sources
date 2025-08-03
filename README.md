@@ -1,4 +1,4 @@
-Pairing Links
+Version and Pairing Links
 
 Fitbit Charge 5: 
 
@@ -24,3 +24,5 @@ https://ouraring.com/blog/get-started/
 Garmin
 
 https://www8.garmin.com/manuals/webhelp/vivomove_style_luxe/EN-US/vivomove_Style_Luxe_OM_EN-US.pdf
+
+https://www.youtube.com/watch?v=T14uT8ZUisw
