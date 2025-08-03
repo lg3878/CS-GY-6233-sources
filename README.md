@@ -31,3 +31,5 @@ https://www.youtube.com/watch?v=T14uT8ZUisw
 Whoop
 
 https://www.nordicsemi.com/Nordic-news/2022/07/The-WHOOP-4-uses-Nordics-nRF52840-SoC
+
+https://www.youtube.com/watch?v=pj5VWkAgyME
